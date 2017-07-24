@@ -15,10 +15,10 @@
   - 教案課程名稱：[DIY 飲料機](https://www.youtube.com/watch?v=k0ERi0Bt8Gk)
   - 教案課程名稱：[DIY 電流急急棒](https://goo.gl/8Qekgs)
   - 教案課程名稱：[團康冰棒棍](https://goo.gl/a8PFUJ)
-  - 教案課程名稱：[簡易濾水器](https://goo.gl/qm6F9i)
+  - 教案課程名稱：[簡易濾水器](https://goo.gl/qm6F9i)
   - 教案課程名稱：[全息影像投影](http://www.insertmag.ca/2015/08/diy-3d-hologram/)
   - 教案課程名稱：[Scratch模組化遊戲設計](todo)
-  - 教案課程名稱：[紙上幻境](http://www.quivervision.com/coloring-packs/)
+  - 教案課程名稱：[紙上幻境](http://www.quivervision.com/coloring-packs/)
   - 教案課程名稱：[化學飲料實驗](todo)
 
 # NEWS
