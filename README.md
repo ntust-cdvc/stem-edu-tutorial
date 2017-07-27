@@ -20,6 +20,8 @@
   - 教案課程名稱：[Scratch模組化遊戲設計](todo)
   - 教案課程名稱：[紙上幻境](http://www.quivervision.com/coloring-packs/)
   - 教案課程名稱：[化學飲料實驗](todo)
+  - 教案課程名稱：[簡易LED發光卡片-使用導電筆](todo)
+  - 教案課程名稱：[簡易四軸飛行器](todo)
 
 # NEWS
 + 成立LINE群組：台科大科學營分享平台(採邀請制)
