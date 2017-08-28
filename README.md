@@ -9,24 +9,19 @@
   - 科學原理類
   - 應用科技類
   - 軟體開發類
-+ 目前教案課程設計
++ 兒童教案課程設計
   - 教案課程名稱：[Arduino藍牙遙控車](Ready)
-  - 教案課程名稱：[蝴蝶卡片,Flying butterfly](https://goo.gl/0OdWt8)
-  - 教案課程名稱：[磁浮列車](https://www.youtube.com/watch?v=J9b0J29OzAU)
-  - 教案課程名稱：[DIY 保險箱](https://www.youtube.com/watch?v=ciyHDFWbz0Q)
-  - 教案課程名稱：[DIY 飲料機](https://www.youtube.com/watch?v=k0ERi0Bt8Gk)
-  - 教案課程名稱：[DIY 電流急急棒](https://goo.gl/8Qekgs)
-  - 教案課程名稱：[團康冰棒棍](https://goo.gl/a8PFUJ)
-  - 教案課程名稱：[簡易濾水器](https://goo.gl/qm6F9i)
-  - 教案課程名稱：[全息影像投影](http://www.insertmag.ca/2015/08/diy-3d-hologram/)
   - 教案課程名稱：[Scratch模組化遊戲設計](todo)
-  - 教案課程名稱：[紙上幻境](http://www.quivervision.com/coloring-packs/)
-  - 教案課程名稱：[化學飲料實驗](todo)
-  - 教案課程名稱：[簡易LED發光卡片-使用導電筆](todo)
-  - 教案課程名稱：[簡易四軸飛行器](todo)
   - 教案課程名稱：[BBC Micro:bit-基礎篇](todo)
   - 教案課程名稱：[BBC Micro:bit-進階篇](todo)
-  - 教案課程名稱：[Ubuntu無痛上手-基礎篇1](todo)
+  - 教案課程名稱：[DIY 保險箱](https://www.youtube.com/watch?v=ciyHDFWbz0Q)
+  - 教案課程名稱：[DIY 飲料機](https://www.youtube.com/watch?v=k0ERi0Bt8Gk)
+  - 教案課程名稱：[簡易濾水器](https://goo.gl/qm6F9i)
+  - 教案課程名稱：[全息影像投影](http://www.insertmag.ca/2015/08/diy-3d-hologram/)
+  - 教案課程名稱：[紙上幻境](http://www.quivervision.com/coloring-packs/)
+  - 教案課程名稱：[簡易LED發光卡片-使用導電筆](todo)
++ 成人教案課程設計
+  - 教案課程名稱：[Ubuntu無痛上手-基礎篇1](todo)  
 
 # NEWS
 + 成立LINE群組：台科大科學營分享平台(採邀請制)
